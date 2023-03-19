@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/SSAFY-90c8ff?style=flat-square"> <img src="https://img.shields.io/badge/jws4858@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 
+### 💪 SKILLS
+<img src="https://img.shields.io/badge/JAVA-edacb1?style=flat-square&logo=Java&logoColor=white">
+
 
