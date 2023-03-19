@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+--><img src="https://img.shields.io/badge/SSAFY-90c8ff?style=plastic&logo=appveyor"/></
 
 
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
