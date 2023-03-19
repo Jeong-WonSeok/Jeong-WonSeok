@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 안녕하세요 백엔드 개발자 정원석입니다.👋
 
 <!--
 **Jeong-WonSeok/Jeong-WonSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
