@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/SSAFY-90c8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/jws4858@gmail.com-#EA4335?style=for-the-badge?"/>
+<img src="https://img.shields.io/badge/jws4858@gmail.com-EA4335?style=for-the-badge?logo=gmail"/>
 
 
