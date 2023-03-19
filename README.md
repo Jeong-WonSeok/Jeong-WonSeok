@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---><img src="https://img.shields.io/badge/SSAFY-90c8ff?style=plastic"/></
+--><img src="https://img.shields.io/badge/SSAFY-90c8ff?style=for-the-badge"/></
 
 
