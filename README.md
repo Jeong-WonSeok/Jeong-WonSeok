@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-WonSeok&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-WonSeok&show_icons=true&theme=vue)
 
