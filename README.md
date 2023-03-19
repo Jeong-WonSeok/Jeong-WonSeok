@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 ### 💪 SKILLS
 <img src="https://img.shields.io/badge/JAVA-edacb1?style=flat-square&fontColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
 
